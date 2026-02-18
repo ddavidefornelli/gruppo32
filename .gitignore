@@ -1,4 +1,4 @@
-# Logs
+# logs
 logs
 *.log
 npm-debug.log*
@@ -11,6 +11,9 @@ node_modules
 dist
 dist-ssr
 *.local
+
+# Convex
+convex/_generated/
 
 # Editor directories and files
 .vscode/*
